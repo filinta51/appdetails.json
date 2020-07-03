@@ -1,28 +1,28 @@
 {
-  adstrue,
-  update[{
-    version2.8.2000,
-    Filinta artık oyunda!,
-    descriptionThe App is available at github.comgayankuruppuandroid-vpn-client-ics-openvpn and follow the developer on GitHub github.comgayanvoice,
-    sizehttpsgit.ioJeY69
+  "ads":"true",
+  "update":[{
+    "version":"2.8.2000",
+    "title":"Filinta yeniden başlıyor!",
+    "description":"kod duzenlemesi yapılmıştır",
+    "size":"https://git.io/JeY69"
   }],
-  blocked[
-    {id0, appcom.android.game},
-    {id1, appcom.utorrent.client},
-    {id2, appcom.torrent.client},
-    {id3, appcom.tor.client},
-    {id4, appcom.insta.client},
-    {id5, appcom.facebook.client},
-    {id6, appcom.get.client}
+  "blocked":[
+    {"id":0, "app":"com.android.game"},
+    {"id":1, "app":"com.utorrent.client"},
+    {"id":2, "app":"com.torrent.client"},
+    {"id":3, "app":"com.tor.client"},
+    {"id":4, "app":"com.insta.client"},
+    {"id":5, "app":"com.facebook.client"},
+    {"id":6, "app":"com.get.client"}
   ],
-  free[
-    {id0, file0, cityEssen,countryGermany,imagegermany,ip51.68.191.75,activetrue,signala},
-    {id1, file0, cityLuxemburg,countryGermany,imageluxemburg,ip51.68.191.75,activetrue,signalb},
-    {id2, file1, cityLas Vegas,countryUnited States,imageunitedstates,ip205.185.119.100,activetrue,signalc},
-    {id3, file1, cityBangkok,countryUnited States,imagethailand,ip205.185.119.100,activetrue,signalc},
-    {id4, file1, cityLondon,countryUnited States,imageunitedkingdom,ip205.185.119.100,activetrue,signalc},
-    {id5, file1, citySingapore,countryUnited States,imagesingapore,ip205.185.119.100,activetrue,signalc},
-    {id6, file1, citySydney,countryUnited States,imageaustralia,ip205.185.119.100,activetrue,signalc}
+  "free":[
+    {"id":0, "file":0, "city":"Essen","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"a"},
+    {"id":1, "file":0, "city":"Luxemburg","country":"Germany","image":"luxemburg","ip":"51.68.191.75","active":"true","signal":"b"},
+    {"id":2, "file":1, "city":"Las Vegas","country":"United States","image":"unitedstates","ip":"205.185.119.100","active":"true","signal":"c"},
+    {"id":3, "file":1, "city":"Bangkok","country":"United States","image":"thailand","ip":"205.185.119.100","active":"true","signal":"c"},
+    {"id":4, "file":1, "city":"London","country":"United States","image":"unitedkingdom","ip":"205.185.119.100","active":"true","signal":"c"},
+    {"id":5, "file":1, "city":"Singapore","country":"United States","image":"singapore","ip":"205.185.119.100","active":"true","signal":"c"},
+    {"id":6, "file":1, "city":"Sydney","country":"United States","image":"australia","ip":"205.185.119.100","active":"true","signal":"c"}
     
   ]
 }
